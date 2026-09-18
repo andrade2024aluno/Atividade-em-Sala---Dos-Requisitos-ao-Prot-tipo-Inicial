@@ -63,8 +63,10 @@ if __name__ == "__main__":
 AutoAvaliação:
 
 Esse codigo e foi basicamente feito na base da ia, Eu nunca usei python na vida, 
-até agora na faculdade nao foi ensinada, foi apenas mostra mas nao cobrado, 
-entao eu meio que fui largado as traças pra ver oque poderia fazer, 
-eu fiz usando os meu 3 requisitos da atividade passada.
-Testei o codigo e funcionou .
+até agora na faculdade não foi ensinada, foi apenas mostra em poucos exemplos não cobrado, 
+entao eu meio que fui largado as traças pra ver oque poderia fazer,
+talves se fosse pedido para usar c/c++ eu até teria feito o codigo bem mais na moral ,
+eu fiz usando os meu 3 requisitos da atividade passada então não foi nada tão bem feito,
+a atividade da aula passada ja foi muito na pressa e essa mais ainda tentando aprender coisas que eu não sabia.
+Testei o codigo e funcionou mas talvez tenha commitado meinho errado porque eu tambem uso bem pouco o git.
 """
