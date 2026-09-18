@@ -16,8 +16,3 @@ Baseados nos requisitos funcionais e não funcionais do estudo dirigido
    visualizar alertas e marcações claras sobre vagas reservadas para
    funcionários (ex: biblioteca), para evitar estacionar em locais não
    permitidos."
-
-Fora do escopo deste protótipo (conforme o próprio documento): fiscalização
-de veículos não autorizados, login persistente e otimização para wifi fraco
-— são requisitos de infraestrutura/segurança, não simuláveis em um script
-de linha de comando neste tamanho.
